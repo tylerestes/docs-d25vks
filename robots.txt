@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-sgl6hg.jutawanbet56tmd.cfd/sitemap.xml
